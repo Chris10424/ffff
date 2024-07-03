@@ -1,4 +1,3 @@
 streamlit
+mag4
 pandas
-scikit-learn
-altair
