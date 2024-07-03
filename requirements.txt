@@ -1,3 +1,4 @@
 streamlit
 mag4
 pandas
+matplotlib.pyplot
